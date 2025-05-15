@@ -81,9 +81,7 @@ src/
 └── App.jsx           # Main application component
 ```
 
-## Screenshots
 
-*[Insert screenshots of admin dashboard, employee dashboard, and task management interface here]*
 
 ## License
 
