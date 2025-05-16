@@ -37,7 +37,7 @@ Create an intuitive, visually appealing task management system that allows admin
 
 ```bash
 # Clone the repository
-git clone https://github.com/shubhayan01/employee-management-system.git
+git clone https://github.com/shubhayan01/Employee-Task-Management-app.git
 
 # Navigate to project directory
 cd employee-management-system
